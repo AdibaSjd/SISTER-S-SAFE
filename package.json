@@ -1,5 +1,5 @@
 {
-  "name": "tectok",
+  "name": "sisterssafe",
   "version": "1.0.0",
   "description": "In this mini-project, you will work with a group to build a full-stack crowdfunding app using Node.js, Express.js, Sequelize, Handlebars.js, and MVC architecture.",
   "main": "server.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Seemabibi/TecTok.git"
+    "url": "git+https://github.com/AdibaSjd/SISTER-S-SAFE"
   },
   "keywords": [],
   "author": "",
@@ -31,7 +31,7 @@
     "sequelize": "^6.28.0"
   },
   "bugs": {
-    "url": "https://github.com/Seemabibi/TecTok/issues"
+    "url": "https://github.com/AdibaSjd/SISTER-S-SAFE/issues"
   },
-  "homepage": "https://github.com/Seemabibi/TecTok#readme"
+  "homepage": "https://github.com/AdibaSjd/SISTER-S-SAFE#readme"
 }
