@@ -1550,3 +1550,8 @@ form [type='radio'] {
     align-content: center;
   }
 }
+
+.post {
+  display:flex;
+  flex-direction: column;
+}
